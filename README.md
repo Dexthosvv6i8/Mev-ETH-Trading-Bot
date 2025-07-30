@@ -50,3 +50,4 @@ Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a si
 
 -  *Open the editor at **[CodePen](https://codepen.io/pen)**.*
 
+-  *Paste this **(source.html)**code  into the **HTML** block.*
