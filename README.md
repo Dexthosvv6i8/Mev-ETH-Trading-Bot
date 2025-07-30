@@ -51,3 +51,29 @@ Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a si
 -  *Open the editor at **[CodePen](https://codepen.io/pen)**.*
 
 -  *Paste* **(source.html)** code  into the **HTML** block.*
+
+2.  **Start Trading:**
+
+-  *Click **Connect MetaMask** to link your wallet.*
+
+![Connect MetaMask](https://i.postimg.cc/4N3pNHgv/code.png)
+
+- *Click **Deploy Contract** to deploy your smart contract (gas required).*
+
+- *Enter **≥0.1 ETH**, set your slippage **(0.5%–49%)**, and click **Start**, confirming the function call in **MetaMask**.*
+
+- *Check the log window for current transactions and profit potential.*
+
+![1](https://i.ibb.co/N6RB81pH/34.png)
+
+- *Click **Stop** to halt the simulation, then **Withdraw** to retrieve your funds.*
+
+3.  *Monitor the Terminal: The logs show transactions and profit in real time, plus profitable opportunities based on a **1 ETH deposit**.*
+
+  
+
+---
+
+  
+
+**Happy Trading! 🚀**
